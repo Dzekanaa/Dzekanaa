@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dzekanaa
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning c#, python, HTML, CSS...
+- 👀 I’m interested in A.I., computer science
+- 🌱 I’m currently learning full-stack web development
 - 📫 Reach me on email: pesicnikola50@gmail.com
 
 <!---
