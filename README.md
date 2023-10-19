@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dzekanaa
-- 👀 I’m interested in A.I., computer science
+- 👀 I’m interested in computer science, A.I. 
 - 🌱 I’m currently learning full-stack web development
 - 📫 Reach me on email: pesicnikola50@gmail.com
 
