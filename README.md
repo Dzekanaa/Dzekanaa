@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola Pedercina</h1>
+<h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">A product developer and designer from Serbia</h3>
 
 - 🌱 I’m currently learning **Three.js,backend web development**
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **pesicnikola50@gmail.com**
 
-- ⚡ Fun fact **I have a gay dad and like to get my asshole blown off by Steva**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
