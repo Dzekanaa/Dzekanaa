@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">A product developer and designer from Serbia</h3>
-
-- 🌱 I’m currently learning **Three.js,backend web development**
-
-- 💬 Ask me about **react, tailwind, next.js**
-
-- 📫 How to reach me **pesicnikola50@gmail.com**
+<h1 align="center">Hi, I'm Nikola</h1>
 
 
 <h3 align="left">Connect with me:</h3>
